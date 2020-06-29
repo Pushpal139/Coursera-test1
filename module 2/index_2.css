@@ -4,12 +4,13 @@
 }
 
 body {
-    background-color: #d6d6d6;
+    background-color: black;
+    
 }
 
 h1 {
     text-align: center;
-    color: black;
+    color: Red;
 }
 
 section {
